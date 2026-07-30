@@ -36,6 +36,7 @@ Negocio_pizza/
 ├── index.html         # Código fuente maquetado y comentado por bloques
 ├── styles.css         # Hoja de estilos con variables de color y personalización
 └── README.md          # Documentación del proyecto
+
 ⚙️ Guía de Personalización Rápida
 
     Editar Textos y Menú: Abre index.html y actualiza la información guiándote por los comentarios <!-- Aqui cambias... -->.
