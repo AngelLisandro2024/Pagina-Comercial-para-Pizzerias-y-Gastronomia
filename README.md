@@ -36,3 +36,18 @@ Negocio_pizza/
 ├── index.html         # Código fuente maquetado y comentado por bloques
 ├── styles.css         # Hoja de estilos con variables de color y personalización
 └── README.md          # Documentación del proyecto
+⚙️ Guía de Personalización Rápida
+
+    Editar Textos y Menú: Abre index.html y actualiza la información guiándote por los comentarios <!-- Aqui cambias... -->.
+
+    Configurar Enlaces de Contacto: Sustituye los números telefónicos en las URL de WhatsApp (https://wa.me/58...) y llamadas (tel:+58...).
+
+    Cambiar Imágenes: Agrega tus propias fotografías dentro de la carpeta Imagenes/ conservando los nombres o actualizando las rutas en el HTML.
+
+    Ajustar Paleta de Colores: Modifica las variables en el bloque :root de styles.css para adaptar los colores a tu marca.
+
+👨‍💻 Sobre el Desarrollador
+
+Ángel Fernández | T.S.U en Informática
+
+Desarrollador de software backend y creador de soluciones digitales enfocadas en funcionalidad, rendimiento y diseño accesible.
